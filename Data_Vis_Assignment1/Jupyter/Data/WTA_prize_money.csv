@@ -1,0 +1,70 @@
+tournamentGroup,year,title,startDate,endDate,surface,inOutdoor,city,country,singlesDrawSize,doublesDrawSize,prizeMoney,prizeMoneyCurrency,liveScoringId
+"{'id': 1063, 'name': 'SHENZHEN', 'level': 'International', 'metadata': None}",2020,Shenzhen Open - China,05/01/2020,11/01/2020,Hard,O,SHENZHEN,CHINA,32,16,651750,USD,1063
+"{'id': 1049, 'name': 'AUCKLAND', 'level': 'International', 'metadata': None}",2020,"ASB Classic 2020 - Auckland, New Zealand",06/01/2020,12/01/2020,Hard,O,AUCKLAND,NEW ZEALAND,32,16,251750,USD,1049
+"{'id': 800, 'name': 'BRISBANE', 'level': 'Premier', 'metadata': None}",2020,"Brisbane International - Brisbane, Australia",06/01/2020,12/01/2020,Hard,O,BRISBANE,AUSTRALIA,32,16,1434900,USD,800
+"{'id': 1050, 'name': 'HOBART', 'level': 'International', 'metadata': None}",2020,"Hobart International - Hobart, Australia",13/01/2020,18/01/2020,Hard,O,HOBART,AUSTRALIA,32,16,251750,USD,1050
+"{'id': 2014, 'name': 'ADELAIDE', 'level': 'Premier', 'metadata': None}",2020,"Adelaide International - Adelaide, Australia",13/01/2020,18/01/2020,Hard,O,ADELAIDE,AUSTRALIA,32,16,782900,USD,M056
+"{'id': 901, 'name': 'AUSTRALIAN OPEN', 'level': 'Grand Slam', 'metadata': None}",2020,"Australian Open - Melbourne, Australia",20/01/2020,02/02/2020,Hard,O,MELBOURNE,AUSTRALIA,128,64,22756069,USD,M044
+"{'id': 1102, 'name': 'NEWPORT BEACH', 'level': '125K', 'metadata': None}",2020,"Oracle Challenger Series - Newport Beach, CA, USA",27/01/2020,02/02/2020,Hard,O,NEWPORT BEACH,UNITED STATES,64,16,162480,USD,1102
+"{'id': 1086, 'name': 'ST. PETERSBURG', 'level': 'Premier', 'metadata': None}",2020,"St. Petersburg Ladies Trophy - St. Petersburg, Russia",10/02/2020,16/02/2020,Hard,I,ST. PETERSBURG,RUSSIA,32,16,782900,USD,1086
+"{'id': 1096, 'name': 'HUA HIN', 'level': 'International', 'metadata': None}",2020,"GSB Thailand Open presented by E@ - Hua Hin, THA",10/02/2020,16/02/2020,Hard,O,HUA HIN,THAILAND,32,16,251750,USD,1096
+"{'id': 718, 'name': 'DUBAI', 'level': 'Premier', 'metadata': None}",2020,"Dubai Duty Free Tennis Championships - Dubai, UAE",17/02/2020,22/02/2020,Hard,O,DUBAI,UNITED ARAB EMIRATES,32,32,2643670,USD,718
+"{'id': 1003, 'name': 'DOHA', 'level': 'Premier 5', 'metadata': None}",2020,"Qatar Total Open 2020 - Doha, Qatar",23/02/2020,29/02/2020,Hard,O,DOHA,QATAR,64,32,2939695,USD,1003
+"{'id': 1002, 'name': 'ACAPULCO', 'level': 'International', 'metadata': None}",2020,"Abierto Mexicano TELCEL presentado por HSBC - Acapulco, Mexico",24/02/2020,29/02/2020,Hard,O,ACAPULCO,MEXICO,32,16,251750,USD,M004
+"{'id': 1039, 'name': 'MONTERREY', 'level': 'International', 'metadata': None}",2020,"Abierto GNP Seguros - Monterrey, Mexico",02/03/2020,08/03/2020,Hard,O,MONTERREY,MEXICO,32,16,251750,USD,1039
+"{'id': 2011, 'name': 'LYON', 'level': 'International', 'metadata': None}",2020,"Open 6ème Sens – Métropole de Lyon, France",02/03/2020,08/03/2020,Hard,I,LYON,FRANCE,32,16,251750,USD,2011
+"{'id': 1103, 'name': 'INDIAN WELLS 125K', 'level': '125K', 'metadata': None}",2020,"Oracle Challenger Series - Indian Wells, CA, USA",02/03/2020,08/03/2020,Hard,O,INDIAN WELLS,UNITED STATES,64,16,162480,USD,1103
+"{'id': 609, 'name': 'INDIAN WELLS', 'level': 'Premier Mandatory', 'metadata': None}",2020,"BNP Paribas Open - Indian Wells, CA, USA",11/03/2020,22/03/2020,Hard,O,INDIAN WELLS,"USA, CA",96,32,8761725,USD,M006
+"{'id': 2002, 'name': 'GUADALAJARA', 'level': '125K', 'metadata': None}",2020,"Abierto Zapopan 2020 - Guadalajara, JA, MEX",16/03/2020,21/03/2020,Hard,O,GUADALAJARA,MEXICO,64,16,115000,USD,2002
+"{'id': 902, 'name': 'MIAMI', 'level': 'Premier Mandatory', 'metadata': None}",2020,"Miami Open presented by Itau - Miami, FL, USA",24/03/2020,04/04/2020,Hard,O,MIAMI,"USA, FL",96,32,8761725,USD,M007
+"{'id': 894, 'name': 'BOGOTA', 'level': 'International', 'metadata': None}",2020,"Copa Colsanitas presentado por Claro - Bogota, Colombia",06/04/2020,12/04/2020,Clay,O,BOGOTA,COLOMBIA,32,16,251750,USD,894
+"{'id': 804, 'name': 'CHARLESTON', 'level': 'Premier', 'metadata': None}",2020,"Volvo Car Open - Charleston, SC, USA",06/04/2020,12/04/2020,Clay,O,CHARLESTON,"USA, SC",64,16,782900,USD,804
+"{'id': 2020, 'name': 'ISTANBUL', 'level': 'International', 'metadata': None}",2020,"Istanbul Open - Istanbul, Turkey",20/04/2020,26/04/2020,Clay,O,ISTANBUL,TURKEY,32,16,251750,USD,2020
+"{'id': 1051, 'name': 'STUTTGART', 'level': 'Premier', 'metadata': None}",2020,"Porsche Tennis Grand Prix - Stuttgart, Germany",20/04/2020,26/04/2020,Clay,I,STUTTGART,GERMANY,32,16,820977,USD,1051
+"{'id': 1082, 'name': 'PRAGUE', 'level': 'International', 'metadata': None}",2020,"J&T Banka Prague Open - Prague, Czech Republic",27/04/2020,02/05/2020,Clay,O,PRAGUE,CZECH REPUBLIC,32,16,251750,USD,1082
+"{'id': 1038, 'name': 'MADRID', 'level': 'Premier Mandatory', 'metadata': None}",2020,"Mutua Madrid Open - Madrid, Spain",02/05/2020,09/05/2020,Clay,O,MADRID,SPAIN,64,32,8344977,USD,M021
+"{'id': 709, 'name': 'ROME', 'level': 'Premier 5', 'metadata': None}",2020,"Internazionali BNL d'Italia - Rome, Italy",11/05/2020,17/05/2020,Clay,O,ROME,ITALY,64,32,3227250,USD,M009
+"{'id': 1005, 'name': 'RABAT', 'level': 'International', 'metadata': None}",2020,"Grand Prix De SAR La Princesse Lalla Meryem - Rabat, Morocco",17/05/2020,23/05/2020,Clay,O,RABAT,MOROCCO,32,16,251750,USD,1005
+"{'id': 406, 'name': 'STRASBOURG', 'level': 'International', 'metadata': None}",2020,"Internationaux de Strasbourg - Strasbourg, France",17/05/2020,23/05/2020,Clay,O,STRASBOURG,FRANCE,32,16,251750,USD,406
+"{'id': 903, 'name': 'ROLAND GARROS', 'level': 'Grand Slam', 'metadata': None}",2020,"Roland Garros - Paris, France",24/05/2020,06/06/2020,Clay,O,PARIS,FRANCE,128,64,0,USD,M041
+"{'id': 1090, 'name': 'BOL', 'level': '125K', 'metadata': None}",2020,"Croatia Bol Open - Bol, Croatia",01/06/2020,06/06/2020,Clay,O,BOL,CROATIA,32,16,115000,USD,1090
+"{'id': 1080, 'name': 'NOTTINGHAM', 'level': 'International', 'metadata': None}",2020,"Nature Valley Open - Nottingham, Great Britain",08/06/2020,14/06/2020,Grass,O,NOTTINGHAM,GREAT BRITAIN,32,16,251750,USD,1080
+"{'id': 822, 'name': ""'S-HERTOGENBOSCH"", 'level': 'International', 'metadata': None}",2020,"Libema Open - 's-Hertogenbosch, Netherlands",08/06/2020,14/06/2020,Grass,O,'S-HERTOGENBOSCH,NETHERLANDS,32,16,251750,USD,M010
+"{'id': 1052, 'name': 'BIRMINGHAM', 'level': 'International', 'metadata': None}",2020,"Nature Valley Classic - Birmingham, Great Britain",15/06/2020,21/06/2020,Grass,O,BIRMINGHAM,GREAT BRITAIN,32,16,251750,USD,1052
+"{'id': 2012, 'name': 'BERLIN', 'level': 'Premier', 'metadata': None}",2020,"bett1open - Berlin, Germany",15/06/2020,21/06/2020,Grass,O,BERLIN,GERMANY,32,16,1022899,USD,2012
+"{'id': 2017, 'name': 'BAD HOMBURG', 'level': 'International', 'metadata': None}",2020,"Bad Homburg Open - Bad Homburg, Germany",21/06/2020,27/06/2020,Grass,O,BAD HOMBURG,GERMANY,32,16,251750,USD,2017
+"{'id': 710, 'name': 'EASTBOURNE', 'level': 'Premier', 'metadata': None}",2020,"Nature Valley International - Eastbourne, Great Britain",21/06/2020,27/06/2020,Grass,O,EASTBOURNE,GREAT BRITAIN,64,16,0,USD,M016
+"{'id': 904, 'name': 'WIMBLEDON', 'level': 'Grand Slam', 'metadata': None}",2020,"The Championships - Wimbledon, Great Britain",29/06/2020,11/07/2020,Grass,O,WIMBLEDON,GREAT BRITAIN,128,64,0,USD,M042
+"{'id': 2003, 'name': 'BASTAD', 'level': '125K', 'metadata': None}",2020,"Nordea Open - Bastad, Sweden",06/07/2020,11/07/2020,Clay,O,BASTAD,SWEDEN,32,16,115000,USD,2003
+"{'id': 1079, 'name': 'BUCHAREST', 'level': 'International', 'metadata': None}",2020,"BRD Bucharest Open - Bucharest, Romania",13/07/2020,19/07/2020,Clay,O,BUCHAREST,ROMANIA,32,16,251750,USD,1079
+"{'id': 1094, 'name': 'LAUSANNE', 'level': 'International', 'metadata': None}",2020,"Ladies Open Lausanne - Lausanne, Switzerland",13/07/2020,19/07/2020,Clay,O,LAUSANNE,SWITZERLAND,32,16,251750,USD,1094
+"{'id': 466, 'name': 'PALERMO', 'level': 'International', 'metadata': None}",2020,"30^ Palermo Ladies Open - Palermo, Italy",20/07/2020,26/07/2020,Clay,O,PALERMO,ITALY,32,16,251750,USD,466
+"{'id': 2006, 'name': 'JURMALA', 'level': 'International', 'metadata': None}",2020,"Baltic Open - Jurmala, Latvia",20/07/2020,26/07/2020,Clay,O,JURMALA,LATVIA,32,16,251750,USD,2006
+"{'id': 2007, 'name': 'NEW HAVEN 125K', 'level': '125K', 'metadata': None}",2020,"Oracle Challenger Series - New Haven, CT, USA",27/07/2020,02/08/2020,Hard,O,NEW HAVEN,"UNITED STATES, CT",64,16,162480,USD,2007
+"{'id': 2004, 'name': 'KARLSRUHE', 'level': '125K', 'metadata': None}",2020,"Liqui Moly Open Karlsruhe - Karlsruhe, Germany",28/07/2020,02/08/2020,Clay,O,KARLSRUHE,GERMANY,32,8,115000,USD,2004
+"{'id': 1045, 'name': 'WASHINGTON DC', 'level': 'International', 'metadata': None}",2020,"Citi Open - Washington DC, USA",03/08/2020,09/08/2020,Hard,O,WASHINGTON DC,"UNITED STATES, DC",32,16,251750,USD,1045
+"{'id': 703, 'name': 'SAN JOSE', 'level': 'Premier', 'metadata': None}",2020,"Mubadala Silicon Valley Classic - San Jose, CA, USA",03/08/2020,09/08/2020,Hard,O,SAN JOSE,"UNITED STATES, CA",32,16,0,USD,703
+"{'id': 806, 'name': 'MONTREAL', 'level': 'Premier 5', 'metadata': None}",2020,"Rogers Cup presented by National Bank - Montreal, Canada",10/08/2020,16/08/2020,Hard,O,MONTREAL,CANADA,64,32,0,USD,806
+"{'id': 1017, 'name': 'CINCINNATI', 'level': 'Premier 5', 'metadata': None}",2020,"Western & Southern Open - Cincinnati, OH, USA",17/08/2020,23/08/2020,Hard,O,CINCINNATI,"UNITED STATES, OH",64,32,0,USD,1017
+"{'id': 2013, 'name': 'ALBANY', 'level': 'International', 'metadata': None}",2020,"Albany Open - Albany, NY, USA",23/08/2020,29/08/2020,Hard,O,"ALBANY, US",UNITED STATES,32,16,251750,USD,2013
+"{'id': 905, 'name': 'US OPEN', 'level': 'Grand Slam', 'metadata': None}",2020,"2020 US OPEN TENNIS CHAMPIONSHIPS - Flushing Meadows, NY, USA",31/08/2020,12/09/2020,Hard,O,FLUSHING MEADOWS,"NEW YORK, USA",128,64,0,USD,905
+"{'id': 2016, 'name': 'WARSAW', 'level': '125K', 'metadata': None}",2020,"BNP Paribas Warsaw Open - Warsaw, Poland",07/09/2020,13/09/2020,Clay,O,WARSAW,POLAND,32,16,115000,USD,2016
+"{'id': 1077, 'name': 'NANCHANG', 'level': 'International', 'metadata': None}",2020,"Jiangxi Open - Nanchang, China",14/09/2020,20/09/2020,Hard,O,NANCHANG,CHINA,32,16,251750,USD,1077
+"{'id': 2008, 'name': 'ZHENGZHOU', 'level': 'Premier', 'metadata': None}",2020,"Zhengzhou Open - Zhengzhou, China",14/09/2020,20/09/2020,Hard,O,ZHENGZHOU,CHINA,32,16,0,USD,2008
+"{'id': 405, 'name': 'HIROSHIMA', 'level': 'International', 'metadata': None}",2020,"Hana-cupid Japan Women's Open - Hiroshima, Japan",14/09/2020,20/09/2020,Hard,O,HIROSHIMA,JAPAN,32,16,251750,USD,405
+"{'id': 1056, 'name': 'TOKYO', 'level': 'Premier', 'metadata': None}",2020,"Toray Pan Pacific Open - Tokyo, Japan",21/09/2020,27/09/2020,Hard,I,TOKYO,JAPAN,32,16,0,USD,1056
+"{'id': 1023, 'name': 'GUANGZHOU', 'level': 'International', 'metadata': None}",2020,"Guangzhou Open - Guangzhou, China",21/09/2020,26/09/2020,Hard,O,GUANGZHOU,CHINA,32,16,451750,USD,1023
+"{'id': 1024, 'name': 'SEOUL', 'level': 'International', 'metadata': None}",2020,"KEB Hana Bank Korea Open 2020 - Seoul, Korea",21/09/2020,27/09/2020,Hard,O,SEOUL,KOREA,32,16,251750,USD,1024
+"{'id': 1075, 'name': 'WUHAN', 'level': 'Premier 5', 'metadata': None}",2020,"2020 Dongfeng Motor Wuhan Open - Wuhan, China",27/09/2020,03/10/2020,Hard,O,WUHAN,CHINA,64,32,0,USD,1075
+"{'id': 2021, 'name': 'TASHKENT', 'level': '125K', 'metadata': None}",2020,"Tashkent Open - Tashkent, Uzbekistan",28/09/2020,03/10/2020,Hard,O,TASHKENT,UZBEKISTAN,32,16,115000,USD,2021
+"{'id': 1020, 'name': 'BEIJING', 'level': 'Premier Mandatory', 'metadata': None}",2020,"China Open - Beijing, China",03/10/2020,11/10/2020,Hard,O,BEIJING,CHINA,64,32,0,USD,1020
+"{'id': 1059, 'name': 'TAIPEI', 'level': '125K', 'metadata': None}",2020,"TAIPEI OEC Open - Taipei, Chinese Taipei",05/10/2020,11/10/2020,Hard,I,TAIPEI,CHINESE TAIPEI,32,16,150000,USD,1059
+"{'id': 528, 'name': 'LINZ', 'level': 'International', 'metadata': None}",2020,"Upper Austria Ladies Linz - Linz, Austria",12/10/2020,18/10/2020,Hard,I,LINZ,AUSTRIA,32,16,251750,USD,528
+"{'id': 1074, 'name': 'HONG KONG', 'level': 'International', 'metadata': None}",2020,"Prudential Hong Kong Tennis Open - Hong Kong, China",12/10/2020,18/10/2020,Hard,O,HONG KONG,CHINA,32,16,451750,USD,1074
+"{'id': 1076, 'name': 'TIANJIN', 'level': 'International', 'metadata': None}",2020,"Tianjin Open - Tianjin, China",12/10/2020,18/10/2020,Hard,O,TIANJIN,CHINA,32,16,251750,USD,1076
+"{'id': 730, 'name': 'MOSCOW', 'level': 'Premier', 'metadata': None}",2020,"VTB Kremlin Cup - Moscow, Russia",19/10/2020,25/10/2020,Hard,I,MOSCOW,RUSSIA,32,16,0,USD,730
+"{'id': 300, 'name': 'LUXEMBOURG', 'level': 'International', 'metadata': None}",2020,"BGL BNP Paribas Luxembourg Open - Luxembourg, Luxembourg",19/10/2020,25/10/2020,Hard,I,LUXEMBOURG,LUXEMBOURG,32,16,251750,USD,300
+"{'id': 1081, 'name': 'ZHUHAI', 'level': 'Finals', 'metadata': None}",2020,"Hengqin Life WTA Elite Trophy Zhuhai 2020 - Zhuhai, P.R. China",27/10/2020,01/11/2020,Hard,O,ZHUHAI,CHINA,12,6,2600000,USD,1081
+"{'id': 808, 'name': 'WTA FINALS', 'level': 'Finals', 'metadata': None}",2020,"Shiseido WTA Finals Shenzhen - Shenzhen, China",01/11/2020,08/11/2020,Hard,I,SHENZHEN,CHINA,8,8,14000000,USD,808
+"{'id': 2001, 'name': 'HOUSTON', 'level': '125K', 'metadata': None}",2020,"Oracle Challenger Series - Houston, TX, USA",15/11/2020,22/11/2020,Hard,O,HOUSTON,"USA, TX",64,16,162480,USD,2001
+"{'id': 1072, 'name': 'LIMOGES', 'level': '125K', 'metadata': None}",2020,"Open BLS De LIMOGES - Limoges, France",14/12/2020,20/12/2020,Hard,I,LIMOGES,FRANCE,32,8,115000,USD,1072

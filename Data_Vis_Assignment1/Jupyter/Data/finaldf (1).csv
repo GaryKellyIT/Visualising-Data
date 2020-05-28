@@ -1,0 +1,125 @@
+"Tournament.ID","Best.of","Court","Location","Tier","Surface","Tournament","Type","AvgPts","AvgRank","NumRounds","MinPoints","MinRank"
+1,3,"Outdoor","Brisbane","ATP250","Hard","Brisbane International","ATP",1206,83,5,200,240
+2,3,"Outdoor","Doha","ATP250","Hard","Qatar Exxon Mobil Open","ATP",1833,51,5,183,249
+3,3,"Outdoor","Pune","ATP250","Hard","Maharashtra Open","ATP",1099,86,5,37,392
+4,3,"Outdoor","Auckland","ATP250","Hard","ASB Classic","ATP",970,69,5,56,360
+5,3,"Outdoor","Sydney","ATP250","Hard","Sydney International","ATP",1017,55,5,206,238
+6,5,"Outdoor","Melbourne","Grand Slam","Hard","Australian Open","ATP",1788,60,7,90,321
+7,3,"Outdoor","Cordoba","ATP250","Clay","Cordoba Open","ATP",726,99,5,19,451
+8,3,"Indoor","Montpellier","ATP250","Hard","Open Sud de France","ATP",729,95,5,100,311
+9,3,"Indoor","Sofia","ATP250","Hard","Sofia Open","ATP",1130,60,5,76,336
+10,3,"Outdoor","Buenos Aires","ATP250","Clay","Argentina Open","ATP",1079,69,5,233,220
+11,3,"Indoor","New York","ATP250","Hard","New York Open","ATP",761,94,5,339,166
+12,3,"Indoor","Rotterdam","ATP500","Hard","ABN AMRO World Tennis Tournament","ATP",1356,54,5,63,351
+13,3,"Outdoor","Delray Beach","ATP250","Hard","Delray Beach Open","ATP",1055,80,5,267,189
+14,3,"Indoor","Marseille","ATP250","Hard","Open 13","ATP",976,77,5,148,283
+15,3,"Outdoor","Rio de Janeiro","ATP500","Clay","Rio Open","ATP",768,87,5,19,445
+16,3,"Outdoor","Acapulco","ATP500","Hard","Abierto Mexicano","ATP",1703,65,5,7,552
+17,3,"Outdoor","Dubai ","ATP500","Hard","Dubai Tennis Championships","ATP",1683,51,5,233,218
+18,3,"Indoor","Sao Paulo","ATP250","Clay","Brasil Open","ATP",665,104,5,19,449
+19,3,"Outdoor","Indian Wells","Masters 1000","Hard","BNP Paribas Open","ATP",1661,58,7,233,217
+20,3,"Outdoor","Miami","Masters 1000","Hard","Sony Ericsson Open","ATP",1528,61,7,17,453
+21,3,"Outdoor","Houston","ATP250","Clay","U.S. Men's Clay Court Championships","ATP",582,121,5,47,372
+22,3,"Outdoor","Marrakech","ATP250","Clay","Grand Prix Hassan II","ATP",974,74,5,299,177
+23,3,"Outdoor","Monte Carlo","Masters 1000","Clay","Monte Carlo Masters","ATP",2035,41,6,7,554
+24,3,"Outdoor","Barcelona","ATP500","Clay","Open Banco Sabadell ","ATP",1737,54,6,152,276
+25,3,"Outdoor","Budapest","ATP250","Clay","Hungarian Open","ATP",888,88,5,91,323
+26,3,"Outdoor","Estoril","ATP250","Clay","Millennium Estoril Open","ATP",1021,73,5,237,214
+27,3,"Outdoor","Munich","ATP250","Clay","BMW Open","ATP",1237,54,5,344,157
+28,3,"Outdoor","Madrid","Masters 1000","Clay","Mutua Madrid Open","ATP",2547,32,6,400,144
+29,3,"Outdoor","Rome","Masters 1000","Clay","Internazionali BNL d'Italia","ATP",2537,37,6,28,416
+30,3,"Outdoor","Geneva","ATP250","Clay","Geneva Open","ATP",974,80,5,95,317
+31,3,"Outdoor","Lyon","ATP250","Clay","Lyon Open","ATP",941,73,5,153,270
+32,5,"Outdoor","Paris","Grand Slam","Clay","French Open","ATP",1873,62,7,111,304
+33,3,"Outdoor","'s-Hertogenbosch","ATP250","Grass","Rosmalen Grass Court Championships","ATP",1060,61,5,220,224
+34,3,"Outdoor","Stuttgart","ATP250","Grass","Mercedes Cup","ATP",1222,55,5,259,205
+35,3,"Outdoor","Halle","ATP500","Grass","Halle Open","ATP",1814,45,5,222,223
+36,3,"Outdoor","Queens Club","ATP500","Grass","Queen's Club Championships","ATP",1492,51,5,235,212
+37,3,"Outdoor","Antalya","ATP250","Grass","Antalya Open","ATP",611,127,5,6,566
+38,3,"Outdoor","Eastbourne","ATP250","Grass","Eastbourne International","ATP",919,68,5,15,472
+39,5,"Outdoor","London","Grand Slam","Grass","Wimbledon","ATP",1783,63,7,10,518
+40,3,"Outdoor","Bastad","ATP250","Clay","SkiStar Swedish Open","ATP",696,91,5,196,235
+41,3,"Outdoor","Newport","ATP250","Grass","Hall of Fame Championships","ATP",669,105,5,213,224
+42,3,"Outdoor","Umag","ATP250","Clay","Croatia Open","ATP",673,122,5,20,453
+43,3,"Outdoor","Atlanta","ATP250","Hard","BB&T Atlanta Open","ATP",856,81,5,34,405
+44,3,"Outdoor","Gstaad","ATP250","Clay","Suisse Open Gstaad","ATP",631,139,5,20,455
+45,3,"Outdoor","Hamburg","ATP500","Clay","German Tennis Championships","ATP",1392,68,5,30,415
+46,3,"Outdoor","Kitzbuhel","ATP250","Clay","Generali Open","ATP",1036,87,5,82,326
+47,3,"Outdoor","Los Cabos","ATP250","Hard","Abierto Mexicano Mifel","ATP",926,87,5,13,492
+48,3,"Outdoor","Washington","ATP500","Hard","Citi Open","ATP",1142,73,6,135,281
+49,3,"Outdoor","Montreal","Masters 1000","Hard","Rogers Masters","ATP",1988,37,6,242,205
+50,3,"Outdoor","Cincinnati","Masters 1000","Hard","Western & Southern Financial Group Masters","ATP",2000,38,6,120,324
+51,3,"Outdoor","Winston-Salem","ATP250","Hard","Winston-Salem Open at Wake Forest University","ATP",799,90,6,26,705
+52,5,"Outdoor","New York","Grand Slam","Hard","US Open","ATP",1651,74,7,3,1415
+53,3,"Indoor","Metz","ATP250","Hard","Open de Moselle","ATP",948,76,5,78,431
+54,3,"Indoor","St. Petersburg","ATP250","Hard","St. Petersburg Open","ATP",1234,78,5,180,250
+55,3,"Outdoor","Chengdu","ATP250","Hard","Chengdu Open","ATP",957,70,5,205,234
+56,3,"Outdoor","Zhuhai","ATP250","Hard","Zhuhai Open","ATP",1063,89,5,82,413
+57,3,"Outdoor","Beijing","ATP500","Hard","China Open","ATP",2004,58,5,57,503
+58,3,"Outdoor","Tokyo","ATP500","Hard","Rakuten Japan Open Tennis Championships","ATP",1723,61,5,383,143
+59,3,"Outdoor","Shanghai","Masters 1000","Hard","Shanghai Masters","ATP",2260,42,6,147,289
+60,3,"Indoor","Antwerp","ATP250","Hard","European Open","ATP",923,83,5,192,243
+61,3,"Indoor","Moscow","ATP250","Hard","Kremlin Cup","ATP",923,114,5,2,1491
+62,3,"Indoor","Stockholm","ATP250","Hard","Stockholm Open","ATP",821,89,5,180,251
+63,3,"Indoor","Basel","ATP500","Hard","Swiss Indoors","ATP",1973,36,5,500,112
+64,3,"Indoor","Vienna","ATP500","Hard","Erste Bank Open","ATP",1711,40,5,383,139
+65,3,"Indoor","Paris","Masters 1000","Hard","BNP Paribas Masters","ATP",2408,32,6,584,97
+66,3,"Indoor","London","Masters Cup","Hard","Masters Cup","ATP",5412,4,3,2670,8
+67,3,"Outdoor","Auckland","International","Hard","ASB Classic","WTA",1258,74,5,308,190
+68,3,"Outdoor","Brisbane","Premier","Hard","Brisbane International","WTA",2495,41,5,170,283
+69,3,"Outdoor","Shenzhen","International","Hard","Shenzhen Open","WTA",1091,79,5,143,309
+70,3,"Outdoor","Hobart","International","Hard","Hobart International","WTA",870,88,5,89,380
+71,3,"Outdoor","Sydney","Premier","Hard","Sydney International","WTA",2552,38,5,307,192
+72,3,"Outdoor","Melbourne","Grand Slam","Hard","Australian Open","WTA",1934,61,7,33,551
+73,3,"Outdoor","Hua Hin","International","Hard","Thailand Open","WTA",927,82,5,273,221
+74,3,"Indoor","St. Petersburg","International","Hard","Ladies Trophy","WTA",1794,54,5,321,181
+75,3,"Outdoor","Doha","Premier","Hard","Qatar Total Open","WTA",2402,45,5,71,429
+76,3,"Indoor","Budapest","International","Hard","Hungarian Ladies Open","WTA",673,106,5,34,547
+77,3,"Outdoor","Dubai","Premier","Hard","Dubai Duty Free Tennis Championships","WTA",2034,49,6,80,406
+78,3,"Outdoor","Acapulco","International","Clay","Abierto Mexicano","WTA",1082,79,5,234,242
+79,3,"Outdoor","Indian Wells","Premier","Hard","BNP Paribas Open","WTA",1869,53,7,232,238
+80,3,"Outdoor","Miami","Premier","Hard","Sony Ericsson Open","WTA",1928,55,7,58,456
+81,3,"Outdoor","Charleston","Premier","Clay","Family Circle Cup","WTA",1363,81,6,15,674
+82,3,"Outdoor","Monterrey","International","Hard","Monterrey Open","WTA",1091,112,5,41,514
+83,3,"Outdoor","Bogota","International","Clay","Copa Claro Colsanitas","WTA",480,163,5,30,574
+84,3,"Outdoor","Lugano","International","Clay","Samsung Open","WTA",689,107,5,80,413
+85,3,"Outdoor","Istanbul","International","Clay","Istanbul Cup","WTA",875,82,5,211,256
+86,3,"Indoor","Stuttgart","Premier","Clay","Porsche Tennis Grand Prix","WTA",2692,48,5,16,681
+87,3,"Outdoor","Prague","International","Clay","J&T Banka Prague Open","WTA",848,97,5,250,232
+88,3,"Outdoor","Rabat","International","Clay","Grand Prix SAR Lalla Meryem","WTA",979,76,5,277,215
+89,3,"Outdoor","Madrid","Premier","Clay","Mutua Madrid Open","WTA",2490,36,6,161,292
+90,3,"Outdoor","Rome","Premier","Clay","Internazionali BNL d'Italia","WTA",2203,42,6,9,779
+91,3,"Outdoor","Nürnberg","International","Clay","Nürnberger Versicherungscup","WTA",712,117,5,41,523
+92,3,"Outdoor","Strasbourg","International","Clay","Internationaux de Strasbourg","WTA",1043,109,5,44,514
+93,3,"Outdoor","Paris","Grand Slam","Clay","French Open","WTA",1665,67,7,45,514
+94,3,"Outdoor","'s-Hertogenbosch","International","Grass","Rosmalen Grass Court Championships","WTA",1186,85,5,266,214
+95,3,"Outdoor","Nottingham","International","Grass","Nottingham Open","WTA",898,109,5,56,481
+96,3,"Outdoor","Birmingham","Premier","Grass","Birmingham Classic ","WTA",2197,42,5,306,190
+97,3,"Outdoor","Mallorca","International","Grass","Mallorca Open","WTA",1663,64,5,116,358
+98,3,"Outdoor","Eastbourne","Premier","Grass","Eastbourne International","WTA",1980,52,6,117,356
+99,3,"Outdoor","London","Grand Slam","Grass","Wimbledon","WTA",1728,63,7,148,313
+100,3,"Outdoor","Bucharest","International","Clay","Bucharest Open","WTA",637,129,5,175,284
+101,3,"Outdoor","Lausanne","International","Clay","Ladies Open Lausanne","WTA",649,122,5,34,562
+102,3,"Outdoor","Jurmala","International","Clay","Baltic Open","WTA",754,141,5,147,316
+103,3,"Outdoor","Palermo","International","Clay","Internazionali Femminili di Palermo","WTA",892,138,5,49,507
+104,3,"Outdoor","San Jose","Premier","Hard","Mubadala Silicon Valley Classic","WTA",1416,85,5,18,674
+105,3,"Outdoor","Washington","International","Hard","Citi Open","WTA",886,95,5,174,292
+106,3,"Outdoor","Toronto","Premier","Hard","Rogers Cup","WTA",2169,44,6,219,260
+107,3,"Outdoor","Cincinnati","Premier","Hard","Western & Southern Financial Group Women's Open","WTA",2207,41,6,411,153
+108,3,"Outdoor","New York","International","Hard","Bronx Open","WTA",989,75,5,79,466
+109,3,"Outdoor","New York","Grand Slam","Hard","US Open","WTA",1797,63,7,1,469
+110,3,"Outdoor","Hiroshima","International","Hard","Japan Women's Tennis Open","WTA",632,119,5,178,300
+111,3,"Outdoor","Nanchang","International","Hard","Jiangxi Women's Tennis Open","WTA",590,147,5,71,496
+112,3,"Outdoor","Zhengzhou","International","Hard","Zhengzhou Open","WTA",1831,69,5,40,638
+113,3,"Outdoor","Guangzhou","International","Hard","Guangzhou Open","WTA",1084,87,5,158,329
+114,3,"Outdoor","Osaka","Premier","Hard","Toray Pan Pacific Open Tennis Tournament","WTA",1719,55,5,344,181
+115,3,"Outdoor","Seoul","International","Hard","Korea Open","WTA",801,95,5,32,710
+116,3,"Outdoor","Tashkent","International","Hard","Tashkent Open","WTA",608,125,5,59,552
+117,3,"Outdoor","Wuhan","Premier","Hard","Wuhan Open","WTA",2155,36,6,468,136
+118,3,"Outdoor","Beijing","Premier","Hard","China Open","WTA",2507,33,6,379,162
+119,3,"Indoor","Linz","International","Hard","Generali Ladies Linz","WTA",1210,69,5,250,241
+120,3,"Outdoor","Tianjin","International","Hard","Tianjin Open","WTA",957,86,5,41,363
+121,3,"Indoor","Luxembourg","International","Hard","BGL BNP Paribas Luxembourg Open","WTA",882,94,5,113,389
+122,3,"Indoor","Moscow","Premier","Hard","Kremlin Cup","WTA",1565,53,5,389,155
+123,3,"Indoor","Zhuhai","Tour Championships","Hard","WTA Elite Trophy","WTA",2329,19,3,1355,40
+124,3,"Indoor","Shenzhen","Tour Championships","Hard","WTA Finals","WTA",4795,5,3,2615,12

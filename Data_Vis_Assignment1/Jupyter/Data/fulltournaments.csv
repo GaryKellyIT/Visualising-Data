@@ -1,0 +1,107 @@
+"Location","Tournament","Type.x","Tournament.ID","Best.of","Court","Tier","Surface","AvgPts","AvgRank","NumRounds","MinPoints","MinRank","startDate","endDate","prizeMoney","prizeMoneyCurrency","city","lat","lng","country","population"
+"'s-Hertogenbosch","Rosmalen Grass Court Championships","WTA",94,3,"Outdoor","International","Grass",1186,85,5,266,214,2020-06-08,2020-06-14,251750,"USD","’s-Hertogenbosch",51.6833,5.3167,"Netherlands",134520
+"'s-Hertogenbosch","Rosmalen Grass Court Championships","ATP",33,3,"Outdoor","ATP250","Grass",1060,61,5,220,224,2020-06-08,2020-06-14,735790,"EUR","’s-Hertogenbosch",51.6833,5.3167,"Netherlands",134520
+"Antwerp","European Open","ATP",60,3,"Indoor","ATP250","Hard",923,83,5,192,243,2020-10-19,2020-10-25,735790,"EUR","Antwerp",51.2204,4.415,"Belgium",920000
+"Atlanta","BB&T Atlanta Open","ATP",43,3,"Outdoor","ATP250","Hard",856,81,5,34,405,2020-07-27,2020-08-02,804180,"USD","Atlanta",33.7627,-84.4225,"United States",5228750
+"Auckland","ASB Classic","ATP",4,3,"Outdoor","ATP250","Hard",970,69,5,56,360,2020-01-13,2020-01-18,610010,"USD","Auckland",-36.8481,174.763,"New Zealand",1377200
+"Auckland","ASB Classic","WTA",67,3,"Outdoor","International","Hard",1258,74,5,308,190,2020-01-06,2020-01-12,251750,"USD","Auckland",-36.8481,174.763,"New Zealand",1377200
+"Barcelona","Open Banco Sabadell ","ATP",24,3,"Outdoor","ATP500","Clay",1737,54,6,152,276,2020-04-20,2020-04-26,2803265,"EUR","Barcelona",41.3833,2.1834,"Spain",4920000
+"Basel","Swiss Indoors","ATP",63,3,"Indoor","ATP500","Hard",1973,36,5,500,112,2020-10-26,2020-11-01,2276790,"EUR","Basel",47.5804,7.59,"Switzerland",830000
+"Beijing","China Open","ATP",57,3,"Outdoor","ATP500","Hard",2004,58,5,57,503,2020-10-05,2020-10-11,3728800,"USD","Beijing",39.9289,116.3883,"China",11106000
+"Beijing","China Open","WTA",118,3,"Outdoor","Premier","Hard",2507,33,6,379,162,2020-10-03,2020-10-11,0,"USD","Beijing",39.9289,116.3883,"China",11106000
+"Bogota","Copa Claro Colsanitas","WTA",83,3,"Outdoor","International","Clay",480,163,5,30,574,NA,NA,NA,NA,"Bogotá",4.5964,-74.0833,"Colombia",7772000
+"Brisbane","Brisbane International","ATP",1,3,"Outdoor","ATP250","Hard",1206,83,5,200,240,2020-01-03,2020-01-12,15000000,"USD","Brisbane",-27.455,153.0351,"Australia",1860000
+"Brisbane","Brisbane International","WTA",68,3,"Outdoor","Premier","Hard",2495,41,5,170,283,2020-01-06,2020-01-12,1434900,"USD","Brisbane",-27.455,153.0351,"Australia",1860000
+"Bucharest","Bucharest Open","WTA",100,3,"Outdoor","International","Clay",637,129,5,175,284,2020-07-13,2020-07-19,251750,"USD","Bucharest",44.4334,26.0999,"Romania",1942000
+"Budapest","Hungarian Open","ATP",25,3,"Outdoor","ATP250","Clay",888,88,5,91,323,2020-04-20,2020-04-26,606350,"EUR","Budapest",47.5,19.0833,"Hungary",1679000
+"Buenos Aires","Argentina Open","ATP",10,3,"Outdoor","ATP250","Clay",1079,69,5,233,220,2020-02-10,2020-02-16,696280,"USD","Buenos Aires",-34.6025,-58.3975,"Argentina",12795000
+"Chengdu","Chengdu Open","ATP",55,3,"Outdoor","ATP250","Hard",957,70,5,205,234,2020-09-28,2020-10-04,1255180,"USD","Chengdu",30.67,104.07,"China",4123000
+"Cincinnati","Western & Southern Financial Group Masters","ATP",50,3,"Outdoor","Masters 1000","Hard",2000,38,6,120,324,2020-08-16,2020-08-23,7151135,"USD","Cincinnati",39.1412,-84.506,"United States",1648254
+"Cincinnati","Western & Southern Financial Group Women's Open","WTA",107,3,"Outdoor","Premier","Hard",2207,41,6,411,153,2020-08-17,2020-08-23,0,"USD","Cincinnati",39.1412,-84.506,"United States",1648254
+"Cordoba","Cordoba Open","ATP",7,3,"Outdoor","ATP250","Clay",726,99,5,19,451,2020-02-03,2020-02-09,610010,"USD","Córdoba",-31.4,-64.1823,"Argentina",1452000
+"Delray Beach","Delray Beach Open","ATP",13,3,"Outdoor","ATP250","Hard",1055,80,5,267,189,2020-02-17,2020-02-23,673655,"USD","Delray Beach",26.455,-80.0905,"United States",68749
+"Doha","Qatar Total Open","WTA",75,3,"Outdoor","Premier","Hard",2402,45,5,71,429,2020-02-23,2020-02-29,2939695,"USD","Doha",25.2866,51.533,"Qatar",1450000
+"Doha","Qatar Exxon Mobil Open","ATP",2,3,"Outdoor","ATP250","Hard",1833,51,5,183,249,2020-01-06,2020-01-11,1465260,"USD","Doha",25.2866,51.533,"Qatar",1450000
+"Dubai","Dubai Duty Free Tennis Championships","WTA",77,3,"Outdoor","Premier","Hard",2034,49,6,80,406,2020-02-17,2020-02-22,2643670,"USD","Dubai",25.23,55.28,"United Arab Emirates",1379000
+"Eastbourne","Eastbourne International","WTA",98,3,"Outdoor","Premier","Grass",1980,52,6,117,356,2020-06-21,2020-06-27,0,"USD","Eastbourne",50.768,0.2905,"",0
+"Eastbourne","Eastbourne International","ATP",38,3,"Outdoor","ATP250","Grass",919,68,5,15,472,2020-06-22,2020-06-27,771680,"EUR","Eastbourne",50.768,0.2905,"",0
+"Estoril","Millennium Estoril Open","ATP",26,3,"Outdoor","ATP250","Clay",1021,73,5,237,214,2020-04-27,2020-05-03,606350,"EUR","Estoril",38.7133,9.3937,"Portugal",0
+"Geneva","Geneva Open","ATP",30,3,"Outdoor","ATP250","Clay",974,80,5,95,317,2020-05-17,2020-05-23,606350,"EUR","Geneva",46.21,6.14,"Switzerland",1240000
+"Gstaad","Suisse Open Gstaad","ATP",44,3,"Outdoor","ATP250","Clay",631,139,5,20,455,2020-07-20,2020-07-26,606350,"EUR","Gstaad",46.4718,7.2866,"",0
+"Halle","Halle Open","ATP",35,3,"Outdoor","ATP500","Grass",1814,45,5,222,223,2020-06-15,2020-06-21,2275960,"EUR","Halle",51.497,11.9688,"",0
+"Hamburg","German Tennis Championships","ATP",45,3,"Outdoor","ATP500","Clay",1392,68,5,30,415,2020-07-13,2020-07-19,1912305,"EUR","Hamburg",53.55,10,"Germany",1757000
+"Houston","U.S. Men's Clay Court Championships","ATP",21,3,"Outdoor","ATP250","Clay",582,121,5,47,372,2020-04-06,2020-04-12,674730,"USD","Houston",29.7869,-95.3905,"United States",5446468
+"Indian Wells","BNP Paribas Open","ATP",19,3,"Outdoor","Masters 1000","Hard",1661,58,7,233,217,2020-03-12,2020-03-22,9735685,"USD","Indian Wells",33.7036,-116.3396,"United States",5404
+"Indian Wells","BNP Paribas Open","WTA",79,3,"Outdoor","Premier","Hard",1869,53,7,232,238,2020-03-11,2020-03-22,8761725,"USD","Indian Wells",33.7036,-116.3396,"United States",5404
+"Kitzbuhel","Generali Open","ATP",46,3,"Outdoor","ATP250","Clay",1036,87,5,82,326,2020-07-27,2020-08-01,606350,"EUR","Kitzbuhel",47.4492,12.3925,"Austria",0
+"London","Masters Cup","ATP",66,3,"Indoor","Masters Cup","Hard",5412,4,3,2670,8,2020-11-15,2020-11-22,0,"USD","London",51.5,-0.1167,"United Kingdom",8567000
+"London","Wimbledon","ATP",39,5,"Outdoor","Grand Slam","Grass",1783,63,7,10,518,2020-06-29,2020-07-12,0,"USD","London",51.5,-0.1167,"United Kingdom",8567000
+"London","Wimbledon","WTA",99,3,"Outdoor","Grand Slam","Grass",1728,63,7,148,313,2020-06-29,2020-07-11,0,"USD","London",51.5,-0.1167,"United Kingdom",8567000
+"Los Cabos","Abierto Mexicano Mifel","ATP",47,3,"Outdoor","ATP250","Hard",926,87,5,13,492,2020-07-20,2020-07-25,933625,"USD","Los Cabos",31.4834,100.4634,"",0
+"Lyon","Lyon Open","ATP",31,3,"Outdoor","ATP250","Clay",941,73,5,153,270,2020-05-17,2020-05-23,606350,"EUR","Lyon",45.77,4.83,"France",1423000
+"Madrid","Mutua Madrid Open","ATP",28,3,"Outdoor","Masters 1000","Clay",2547,32,6,400,144,2020-05-03,2020-05-10,7659165,"EUR","Madrid",40.4,-3.6834,"Spain",5567000
+"Madrid","Mutua Madrid Open","WTA",89,3,"Outdoor","Premier","Clay",2490,36,6,161,292,2020-05-02,2020-05-09,8344977,"USD","Madrid",40.4,-3.6834,"Spain",5567000
+"Marrakech","Grand Prix Hassan II","ATP",22,3,"Outdoor","ATP250","Clay",974,74,5,299,177,2020-04-06,2020-04-12,606350,"EUR","Marrakech",31.63,-8,"Morocco",872000
+"Marseille","Open 13","ATP",14,3,"Indoor","ATP250","Hard",976,77,5,148,283,2020-02-17,2020-02-23,769670,"EUR","Marseille",43.29,5.375,"France",1400000
+"Melbourne","Australian Open","ATP",6,5,"Outdoor","Grand Slam","Hard",1788,60,7,90,321,2020-01-20,2020-02-03,32505000,"AUD","Melbourne",-37.82,144.975,"Australia",4170000
+"Melbourne","Australian Open","WTA",72,3,"Outdoor","Grand Slam","Hard",1934,61,7,33,551,2020-01-20,2020-02-02,22756069,"USD","Melbourne",-37.82,144.975,"Australia",4170000
+"Metz","Open de Moselle","ATP",53,3,"Indoor","ATP250","Hard",948,76,5,78,431,2020-09-21,2020-09-27,606350,"EUR","Metz",49.1203,6.18,"France",409186
+"Miami","Sony Ericsson Open","WTA",80,3,"Outdoor","Premier","Hard",1928,55,7,58,456,2020-03-24,2020-04-04,8761725,"USD","Miami",25.7839,-80.2102,"United States",6381966
+"Miami","Sony Ericsson Open","ATP",20,3,"Outdoor","Masters 1000","Hard",1528,61,7,17,453,2020-03-25,2020-04-05,9735685,"USD","Miami",25.7839,-80.2102,"United States",6381966
+"Monte Carlo","Monte Carlo Masters","ATP",23,3,"Outdoor","Masters 1000","Clay",2035,41,6,7,554,2020-04-12,2020-04-19,5961830,"EUR","Monte Carlo",43.7401,7.4266,"",0
+"Montpellier","Open Sud de France","ATP",8,3,"Indoor","ATP250","Hard",729,95,5,100,311,2020-02-03,2020-02-09,606350,"EUR","Montpellier",43.6104,3.87,"France",327254
+"Montreal","Rogers Masters","ATP",49,3,"Outdoor","Masters 1000","Hard",1988,37,6,242,205,2020-08-10,2020-08-16,6753510,"USD","Montréal",45.5,-73.5833,"Canada",3678000
+"Moscow","Kremlin Cup","WTA",122,3,"Indoor","Premier","Hard",1565,53,5,389,155,2020-10-19,2020-10-25,0,"USD","Moscow",55.7522,37.6155,"Russia",10452000
+"Moscow","Kremlin Cup","ATP",61,3,"Indoor","ATP250","Hard",923,114,5,2,1491,2020-10-19,2020-10-25,1056955,"USD","Moscow",55.7522,37.6155,"Russia",10452000
+"Munich","BMW Open","ATP",27,3,"Outdoor","ATP250","Clay",1237,54,5,344,157,2020-04-27,2020-05-03,606350,"EUR","Munich",48.1299,11.575,"Germany",1275000
+"New York","New York Open","ATP",11,3,"Indoor","ATP250","Hard",761,94,5,339,166,2020-02-10,2020-02-16,804180,"USD","New York",40.6943,-73.9249,"United States",19354922
+"New York","US Open","WTA",109,3,"Outdoor","Grand Slam","Hard",1797,63,7,1,469,2020-08-31,2020-09-12,0,"USD","New York",40.6943,-73.9249,"United States",19354922
+"New York","US Open","ATP",52,5,"Outdoor","Grand Slam","Hard",1651,74,7,3,1415,2020-08-31,2020-09-13,0,"USD","New York",40.6943,-73.9249,"United States",19354922
+"Nottingham","Nottingham Open","WTA",95,3,"Outdoor","International","Grass",898,109,5,56,481,2020-06-08,2020-06-14,251750,"USD","Nottingham",52.9703,-1.17,"United Kingdom",825600
+"Palermo","Internazionali Femminili di Palermo","WTA",103,3,"Outdoor","International","Clay",892,138,5,49,507,2020-07-20,2020-07-26,251750,"USD","Palermo",38.125,13.35,"Italy",863000
+"Paris","French Open","WTA",93,3,"Outdoor","Grand Slam","Clay",1665,67,7,45,514,2020-05-24,2020-06-06,0,"USD","Paris",48.8667,2.3333,"France",9904000
+"Paris","French Open","ATP",32,5,"Outdoor","Grand Slam","Clay",1873,62,7,111,304,2020-05-24,2020-06-07,0,"USD","Paris",48.8667,2.3333,"France",9904000
+"Paris","BNP Paribas Masters","ATP",65,3,"Indoor","Masters 1000","Hard",2408,32,6,584,97,2020-11-02,2020-11-08,6168080,"EUR","Paris",48.8667,2.3333,"France",9904000
+"Pune","Maharashtra Open","ATP",3,3,"Outdoor","ATP250","Hard",1099,86,5,37,392,2020-02-03,2020-02-09,610010,"USD","Pune",18.53,73.85,"India",4672000
+"Queens Club","Queen's Club Championships","ATP",36,3,"Outdoor","ATP500","Grass",1492,51,5,235,212,2020-06-15,2020-06-21,2275960,"EUR","Queens Club",51.4876,0.211,"",0
+"Rio de Janeiro","Rio Open","ATP",15,3,"Outdoor","ATP500","Clay",768,87,5,19,445,2020-02-17,2020-02-23,1915485,"USD","Rio de Janeiro",-22.925,-43.225,"Brazil",11748000
+"Rome","Internazionali BNL d'Italia","ATP",29,3,"Outdoor","Masters 1000","Clay",2537,37,6,28,416,2020-05-10,2020-05-17,6168080,"EUR","Rome",41.896,12.4833,"Italy",3339000
+"Rome","Internazionali BNL d'Italia","WTA",90,3,"Outdoor","Premier","Clay",2203,42,6,9,779,2020-05-11,2020-05-17,3227250,"USD","Rome",41.896,12.4833,"Italy",3339000
+"Rotterdam","ABN AMRO World Tennis Tournament","ATP",12,3,"Indoor","ATP500","Hard",1356,54,5,63,351,2020-02-10,2020-02-16,2155295,"EUR","Rotterdam",51.92,4.48,"Netherlands",1005000
+"Shanghai","Shanghai Masters","ATP",59,3,"Outdoor","Masters 1000","Hard",2260,42,6,147,289,2020-10-11,2020-10-18,8741630,"USD","Shanghai",31.2165,121.4365,"China",14987000
+"Sofia","Sofia Open","ATP",9,3,"Indoor","ATP250","Hard",1130,60,5,76,336,2020-09-28,2020-10-04,606350,"EUR","Sofia",42.6833,23.3167,"Bulgaria",1185000
+"St. Petersburg","Ladies Trophy","WTA",74,3,"Indoor","International","Hard",1794,54,5,321,181,2020-02-10,2020-02-16,782900,"USD","St. Petersburg",27.793,-82.6652,"United States",263255
+"St. Petersburg","St. Petersburg Open","ATP",54,3,"Indoor","ATP250","Hard",1234,78,5,180,250,2020-09-21,2020-09-27,1314510,"USD","St. Petersburg",27.793,-82.6652,"United States",263255
+"Stockholm","Stockholm Open","ATP",62,3,"Indoor","ATP250","Hard",821,89,5,180,251,2020-10-19,2020-10-25,735790,"EUR","Stockholm",59.3508,18.0973,"Sweden",1264000
+"Stuttgart","Porsche Tennis Grand Prix","WTA",86,3,"Indoor","Premier","Clay",2692,48,5,16,681,2020-04-20,2020-04-26,820977,"USD","Stuttgart",48.78,9.2,"Germany",2944700
+"Stuttgart","Mercedes Cup","ATP",34,3,"Outdoor","ATP250","Grass",1222,55,5,259,205,2020-06-08,2020-06-14,780570,"EUR","Stuttgart",48.78,9.2,"Germany",2944700
+"Tashkent","Tashkent Open","WTA",116,3,"Outdoor","International","Hard",608,125,5,59,552,2020-09-28,2020-10-03,115000,"USD","Tashkent",41.3117,69.2949,"Uzbekistan",2184000
+"Tokyo","Rakuten Japan Open Tennis Championships","ATP",58,3,"Outdoor","ATP500","Hard",1723,61,5,383,143,2020-10-05,2020-10-11,2108865,"USD","Tokyo",35.685,139.7514,"Japan",35676000
+"Toronto","Rogers Cup","WTA",106,3,"Outdoor","Premier","Hard",2169,44,6,219,260,2020-08-10,2020-08-16,0,"USD","Toronto",43.7,-79.42,"Canada",5213000
+"Umag","Croatia Open","ATP",42,3,"Outdoor","ATP250","Clay",673,122,5,20,453,2020-07-20,2020-07-26,606350,"EUR","Umag",45.4372,13.5257,"Croatia",0
+"Vienna","Erste Bank Open","ATP",64,3,"Indoor","ATP500","Hard",1711,40,5,383,139,2020-10-26,2020-11-01,2490620,"EUR","Vienna",48.2,16.3666,"Austria",2400000
+"Washington","Citi Open","WTA",105,3,"Outdoor","International","Hard",886,95,5,174,292,2020-08-03,2020-08-09,251750,"USD","Washington",38.9047,-77.0163,"United States",5289420
+"Washington","Citi Open","ATP",48,3,"Outdoor","ATP500","Hard",1142,73,6,135,281,2020-08-02,2020-08-09,2108865,"USD","Washington",38.9047,-77.0163,"United States",5289420
+"Winston-Salem","Winston-Salem Open at Wake Forest University","ATP",51,3,"Outdoor","ATP250","Hard",799,90,6,26,705,2020-08-23,2020-08-29,835020,"USD","Winston-Salem",36.1029,-80.261,"United States",416581
+"Zhuhai","WTA Elite Trophy","WTA",123,3,"Indoor","Tour Championships","Hard",2329,19,3,1355,40,2020-10-27,2020-11-01,2600000,"USD","Zhuhai",22.2769,113.5678,"China",1023000
+"Zhuhai","Zhuhai Open","ATP",56,3,"Outdoor","ATP250","Hard",1063,89,5,82,413,2020-09-28,2020-10-04,1034655,"USD","Zhuhai",22.2769,113.5678,"China",1023000
+"Birmingham","Birmingham Classic ","WTA",96,3,"Outdoor","Premier","Grass",2197,42,5,306,190,2020-06-15,2020-06-21,251750,"USD","Birmingham",52.475,-1.92,"United Kingdom",2285000
+"Charleston","Family Circle Cup","WTA",81,3,"Outdoor","Premier","Clay",1363,81,6,15,674,2020-04-06,2020-04-12,782900,"USD","Charleston",32.8151,-79.963,"United States",616085
+"Guangzhou","Guangzhou Open","WTA",113,3,"Outdoor","International","Hard",1084,87,5,158,329,2020-09-21,2020-09-26,451750,"USD","Guangzhou",23.145,113.325,"China",8829000
+"Hiroshima","Japan Women's Tennis Open","WTA",110,3,"Outdoor","International","Hard",632,119,5,178,300,2020-09-14,2020-09-20,251750,"USD","Hiroshima",34.3878,132.4429,"Japan",2045000
+"Hobart","Hobart International","WTA",70,3,"Outdoor","International","Hard",870,88,5,89,380,2020-01-13,2020-01-18,251750,"USD","Hobart",-42.85,147.295,"Australia",80870
+"Hua Hin","Thailand Open","WTA",73,3,"Outdoor","International","Hard",927,82,5,273,221,2020-02-10,2020-02-16,251750,"USD","Hua Hin",12.5697,99.9443,"Thailand",50456
+"Lausanne","Ladies Open Lausanne","WTA",101,3,"Outdoor","International","Clay",649,122,5,34,562,2020-07-13,2020-07-19,251750,"USD","Lausanne",46.5304,6.65,"Switzerland",265702
+"Linz","Generali Ladies Linz","WTA",119,3,"Indoor","International","Hard",1210,69,5,250,241,2020-10-12,2020-10-18,251750,"USD","Linz",48.3192,14.2888,"Austria",349161
+"Luxembourg","BGL BNP Paribas Luxembourg Open","WTA",121,3,"Indoor","International","Hard",882,94,5,113,389,2020-10-19,2020-10-25,251750,"USD","Luxembourg",49.6117,6.13,"Luxembourg",107260
+"Monterrey","Monterrey Open","WTA",82,3,"Outdoor","International","Hard",1091,112,5,41,514,2020-03-02,2020-03-08,251750,"USD","Monterrey",25.67,-100.33,"Mexico",3712000
+"Nanchang","Jiangxi Women's Tennis Open","WTA",111,3,"Outdoor","International","Hard",590,147,5,71,496,2020-09-14,2020-09-20,251750,"USD","Nanchang",28.68,115.88,"China",2350000
+"Osaka","Toray Pan Pacific Open Tennis Tournament","WTA",114,3,"Outdoor","Premier","Hard",1719,55,5,344,181,2020-09-21,2020-09-27,0,"USD","Ōsaka",34.75,135.4601,"Japan",11294000
+"Prague","J&T Banka Prague Open","WTA",87,3,"Outdoor","International","Clay",848,97,5,250,232,2020-04-27,2020-05-02,251750,"USD","Prague",50.0833,14.466,"Czechia",1162000
+"Seoul","Korea Open","WTA",115,3,"Outdoor","International","Hard",801,95,5,32,710,2020-09-21,2020-09-27,251750,"USD","Seoul",37.5663,126.9997,"Korea, South",9796000
+"Shenzhen","WTA Finals","WTA",124,3,"Indoor","Tour Championships","Hard",4795,5,3,2615,12,2020-11-01,2020-11-08,14000000,"USD","Shenzhen",22.5524,114.1221,"China",7581000
+"Shenzhen","Shenzhen Open","WTA",69,3,"Outdoor","International","Hard",1091,79,5,143,309,2020-01-05,2020-01-11,651750,"USD","Shenzhen",22.5524,114.1221,"China",7581000
+"Strasbourg","Internationaux de Strasbourg","WTA",92,3,"Outdoor","International","Clay",1043,109,5,44,514,2020-05-17,2020-05-23,251750,"USD","Strasbourg",48.58,7.75,"France",439972
+"Tianjin","Tianjin Open","WTA",120,3,"Outdoor","International","Hard",957,86,5,41,363,2020-10-12,2020-10-18,251750,"USD","Tianjin",39.13,117.2,"China",7180000
+"Wuhan","Wuhan Open","WTA",117,3,"Outdoor","Premier","Hard",2155,36,6,468,136,2020-09-27,2020-10-03,0,"USD","Wuhan",30.58,114.27,"China",7243000
+"Zhengzhou","Zhengzhou Open","WTA",112,3,"Outdoor","International","Hard",1831,69,5,40,638,2020-09-14,2020-09-20,0,"USD","Zhengzhou",34.755,113.6651,"China",2636000
